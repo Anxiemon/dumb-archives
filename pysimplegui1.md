@@ -29,6 +29,6 @@ free alternative out there.
     PSG is regularly trashed in the Python Discord I follow when questions about it come up. I understand the author wanting to get paid for his work but there are too many free options out there. I wish I had not invested time learning the module.
 ## J. Y. wrote:
 IMO, here's for user screen shots. You can post a new issue for your opinion, remember to fill the issue form.
-kcl1s wrote:
+## kcl1s wrote:
 You are right. Sorry....Deleted
 [End]
